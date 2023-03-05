@@ -1,1 +1,1 @@
-# https://plantsjasrakh.netlify.app/
+# Deploy: https://plantsjasrakh.netlify.app/
