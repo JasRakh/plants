@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://plantsjasrakh.netlify.app/
